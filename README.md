@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Kaushik Bhandari</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif)" alt="Girl in a jacket" width="500" height="600">
+
 
 - 📫 How to reach me **bhandarikaushik32@gmail.com**
 
