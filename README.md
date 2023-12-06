@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1707350400&v=beta&t=9RcINYFHQsueNzPhiYsHO3dF8-5F2ZkrzirpwQsjmfs)
+![MasterHead](https://wollen.org/blog/wp-content/uploads/2021/04/hello_world_title3.gif)
 
 <h1 align="center">Hi 👋, I'm Kaushik Bhandari</h1>
 <h3 align="center">A passionate frontend developer</h3>
