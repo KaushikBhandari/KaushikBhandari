@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://i.imgur.com/Oy9V9tT.jpeg](https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_1280.jpg" width="100%" />
+  <!-- <img src="https://i.imgur.com/Oy9V9tT.jpeg](https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_1280.jpg" width="100%" /> -->
 </p>
 
 <h1 align="center">Hi 👋, I'm Kaushik Bhandari</h1>
 <h3 align="center">A Passionate MERN Stack Developer</h3>
 
-<img align="right" alt="coding" width="350" src="https://i.imgur.com/bSQv1tC.png">
+<!-- <img align="right" alt="coding" width="350" src="https://i.imgur.com/bSQv1tC.png"> -->
 
 ---
 
