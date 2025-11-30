@@ -1,21 +1,20 @@
-<!-- Working Master Head -->
 <p align="center">
-  <img src="https://i.imgur.com/q9rjYqB.gif" />
+  <img src="https://i.imgur.com/Oy9V9tT.jpeg" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Kaushik Bhandari</h1>
-<h3 align="center">A Passionate MERN Stack Developer & Tech Enthusiast</h3>
+<h3 align="center">A Passionate MERN Stack Developer</h3>
 
-<!-- Working Coding GIF -->
-<img align="right" alt="coding" width="380" src="https://i.imgur.com/ZYJbGQF.gif">
+<img align="right" alt="coding" width="350" src="https://i.imgur.com/bSQv1tC.png">
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🌱 I’m currently learning **Advanced MERN, DevOps & System Design**
-- 💼 Open to freelance and collaboration opportunities  
-- 📫 Reach me at: **bhandarikaushik32@gmail.com**
+- 💻 MERN Stack Developer  
+- 🌱 Currently learning **Advanced MERN, DevOps & System Design**
+- 💼 Open for freelance & collaboration work  
+- 📫 Email: **bhandarikaushik32@gmail.com**
 - ⚡ Fun fact: **I think I'm funny 😄**
 
 ---
@@ -35,9 +34,10 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Languages & Tools
+
 <p align="left">
-  
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45"/>
@@ -54,6 +54,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="45"/>
+
 </p>
 
 ---
@@ -61,4 +62,17 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kaushikbhandari&show_icons=true&theme=tokyonight" />
-  <img
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kaushikbhandari&theme=tokyonight" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+- 🔗 **URL Shortener (ShortID)** – EJS-based frontend  
+- 🔐 **Authentication System** – JWT + Cloudinary + Multer  
+- 🖼️ **Pixabay Image Finder** – React App  
+
+---
+
+⭐ **Thanks for visiting my profile!** ⭐
